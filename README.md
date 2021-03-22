@@ -18,7 +18,7 @@ mv colors /etc/vim/
 If you still want to use it as a default theme, follow the steps below.
 <pre>
 sudo nano /etc/vim/vimrc
-set colorscheme
+:set colorscheme
 colorscheme Gitdark
 </pre>
 
