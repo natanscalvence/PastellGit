@@ -2,8 +2,14 @@
 ### Based on GitHub colorscheme in Dark mode
 
 ![Imgur](https://i.imgur.com/n0YXvoa.png)
-Installation: Add the folder 'Colors' in your /etc/vim/.
-Open your VIM and type: 
+### Installation
+<pre>
+cd /etc/vim/
+git clone https://github.com/natanscalvence/Gitdark.git
+cd Gitdark
+mv colors /etc/vim/
+<br>
+</pre>
 <pre>
 :colorscheme Gitdark
 </pre>
