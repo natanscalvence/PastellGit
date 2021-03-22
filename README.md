@@ -24,10 +24,4 @@ colorscheme Gitdark
 
 👽 You done, now you have the new theme for you vim. Looks that Unixporn...
 
-Languages where the theme is better finished:
-<br>
-C
-<br>
-Python
-<br>
-Ruby
+
