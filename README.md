@@ -1,8 +1,7 @@
 # Gitdark Theme
 ### Based on GitHub colorscheme in Dark mode
 
-![Imgur](https://i.imgur.com/gBiX2e3.png)
-
+![Imgur](https://i.imgur.com/n0YXvoa.png)
 Installation: Add the folder 'Colors' in your /etc/vim/.
 Open your VIM and type: 
 <pre>
