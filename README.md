@@ -5,7 +5,7 @@
 ### Installation
 <pre>
 cd /etc/vim/
-git clone https://github.com/natanscalvence/Gitdark.git
+sudo git clone https://github.com/natanscalvence/Gitdark.git
 cd Gitdark
 mv colors /etc/vim/
 </pre>
