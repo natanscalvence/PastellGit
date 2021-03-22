@@ -9,6 +9,7 @@ sudo git clone https://github.com/natanscalvence/Gitdark.git
 cd Gitdark
 mv colors /etc/vim/
 </pre>
+### Open your vim than type: 
 <pre>
 :colorscheme Gitdark
 </pre>
