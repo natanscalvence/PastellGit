@@ -9,3 +9,9 @@ Open your VIM and type:
 :colorscheme Gitdark
 </pre>
 Then press enter.
+
+Languages where the theme is better finished:
+C
+Python
+Ruby
+....
