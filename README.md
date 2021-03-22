@@ -8,7 +8,6 @@ cd /etc/vim/
 git clone https://github.com/natanscalvence/Gitdark.git
 cd Gitdark
 mv colors /etc/vim/
-<br>
 </pre>
 <pre>
 :colorscheme Gitdark
