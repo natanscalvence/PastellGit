@@ -1,7 +1,8 @@
 
 """
 " Name: Gitdark.vim
-" Created by: github.com/scalvence
+" Autor: github.com/natanscalvence
+" Date: 21/03/2021
 """
 
 set background=dark
@@ -69,7 +70,7 @@ hi DiffAdd          guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=2
 hi DiffChange       guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
 hi DiffDelete       guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
 hi DiffText         guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi EndOfBuffer      guisp=NONE guifg=#454a49 guibg=#0d1117 ctermfg=238 ctermbg=233 gui=NONE cterm=NONE
+hi EndOfBuffer      guisp=NONE guifg=#0d1117 guibg=#0d1117 ctermfg=233 ctermbg=233 gui=NONE cterm=NONE
 hi ErrorMsg         guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
 hi VertSplit        guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
 hi Folded           guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
