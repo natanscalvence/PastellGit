@@ -1,6 +1,7 @@
 
 """
 " Name: Gitdark.vim
+" Created by: github.com/scalvence
 """
 
 set background=dark
