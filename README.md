@@ -22,6 +22,6 @@ set colorscheme
 colorscheme Gitdark
 </pre>
 
-👽 You done, now you have the new theme for you vim. Looks that Unixporn...
+👽 You done, now you have the new theme for you vim. Look at that Unixporn...
 
 
