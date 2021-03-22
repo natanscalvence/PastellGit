@@ -11,7 +11,7 @@ Open your VIM and type:
 Then press enter.
 
 Languages where the theme is better finished:
+<br>
 C
 Python
 Ruby
-....
