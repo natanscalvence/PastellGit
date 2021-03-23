@@ -1,6 +1,6 @@
 ![Imgur](https://i.imgur.com/tHhTAi4.png)
 ![Imgur](https://i.imgur.com/G5Qh1hk.png)
-if you wish, you can access the complete list of screenshots at this [1]: <https://scalvence.imgur.com/all> "link".
+if you wish, you can access the complete list of screenshots at this <a href="https://scalvence.imgur.com/all">link.</a>
 
 ### Why I created this project?
 
