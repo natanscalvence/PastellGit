@@ -1,7 +1,11 @@
-# Gitdark Theme
-### Based on GitHub colorscheme in Dark mode
+![Imgur](https://i.imgur.com/tHhTAi4.png)
+![Imgur](https://i.imgur.com/G5Qh1hk.png)
+if you wish, you can access the complete list of screenshots at this [1]: <https://scalvence.imgur.com/all> "link".
 
-![Imgur](https://i.imgur.com/n0YXvoa.png)
+### Why I created this project?
+
+Learning is never enough, it is always important to understand something different implemented in the tools of our daily lives, and no project is small enough not to be created. A simple theme can give you an idea, maybe not a big one, but a base, in maybe design and UX, in improving the user experience as well as his vision in the editor and maybe improving his productivity.
+
 ### Installation
 <pre>
 cd /etc/vim/
