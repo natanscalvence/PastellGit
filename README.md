@@ -6,6 +6,14 @@ if you wish, you can access the complete list of screenshots at this <a href="ht
 Learning is never enough, it is always important to understand something different implemented in the tools of our daily lives, and no project is small enough not to be created. A simple theme can give you an idea, maybe not a big one, but a base, in maybe design and UX, in improving the user experience as well as his vision in the editor and maybe improving his productivity.
 
 ### Installation
+
+
+Vundle: <pre>Plugin 'natanscalvence/Gitdark'</pre>
+NeoBundle:  
+
+<pre>NeoBundle 'natanscalvence/Gitdark'</pre>
+
+Manual:
 <pre>
 cd /etc/vim/
 sudo git clone https://github.com/natanscalvence/Gitdark.git
