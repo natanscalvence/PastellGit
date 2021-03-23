@@ -1,5 +1,4 @@
-![Imgur](https://i.imgur.com/tHhTAi4.png = 250x)
-![Imgur](https://i.imgur.com/G5Qh1hk.png)
+![Imgur](https://i.imgur.com/dSg8eT9.png)
 if you wish, you can access the complete list of screenshots at this <a href="https://scalvence.imgur.com/all">link.</a>
 
 ### Why I created this project?
@@ -15,7 +14,6 @@ mv colors /etc/vim/
 </pre>
 ### Open your vim than type: 
 <pre>
-:colorscheme Gitdark
 :colorscheme Gitdark-Dimmed
 </pre>
 
