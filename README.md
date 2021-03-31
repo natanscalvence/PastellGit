@@ -22,7 +22,7 @@ mv colors /etc/vim/
 </pre>
 ### Open your vim than type: 
 <pre>
-:colorscheme Gitdark-Dimmed
+:colorscheme Gitdark
 </pre>
 
 If you still want to use it as a default theme, follow the steps below.
