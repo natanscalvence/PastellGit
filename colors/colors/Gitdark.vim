@@ -17,46 +17,46 @@ let g:colors_name='Untitled'
 set t_Co=256
 
 
+
 " javascript
 
-hi javaScriptLineComment      guisp=NONE guifg=#636e7a guibg=#22272e ctermfg=242 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptCommentSkip      guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptComment          guisp=NONE guifg=#636e7a guibg=#22272e ctermfg=242 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptSpecial          guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptStringD          guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptStringS          guisp=NONE guifg=#96d0ff guibg=#22272e ctermfg=117 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptStringT          guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptEmbed            guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptSpecialCharacter guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptNumber           guisp=NONE guifg=#dcb8ee guibg=#22272e ctermfg=183 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptRegexpString     guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptFunction         guisp=NONE guifg=#d9644c guibg=#22272e ctermfg=167 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptFunctionFold     guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptBraces           guisp=NONE guifg=#96d0ff guibg=#22272e ctermfg=117 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptParens           guisp=NONE guifg=#96d0ff guibg=#22272e ctermfg=117 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptCommentTodo      guisp=NONE guifg=#0099ff guibg=#22272e ctermfg=33  ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptCharacter        guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptConditional      guisp=NONE guifg=#65a8eb guibg=#22272e ctermfg=75  ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptRepeat           guisp=NONE guifg=#65a8eb guibg=#22272e ctermfg=75  ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptBranch           guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptOperator         guisp=NONE guifg=#65a8eb guibg=#22272e ctermfg=75  ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptType             guisp=NONE guifg=#dcb8ee guibg=#22272e ctermfg=183 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptStatement        guisp=NONE guifg=#65a8eb guibg=#22272e ctermfg=75  ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptError            guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScrParenError          guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptNull             guisp=NONE guifg=#96d0ff guibg=#22272e ctermfg=117 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptBoolean          guisp=NONE guifg=#6bb4fd guibg=#22272e ctermfg=75  ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptIdentifier       guisp=NONE guifg=#e86c63 guibg=#22272e ctermfg=167 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptLabel            guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptException        guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptMessage          guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptGlobal           guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptMember           guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptDeprecated       guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptReserved         guisp=NONE guifg=#e86c63 guibg=#22272e ctermfg=167 ctermbg=235 gui=NONE cterm=NONE
-hi javaScriptDebug            guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi javaScriptConstant         guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-
+hi javaScriptLineComment      guisp=NONE guifg=#636e7a guibg=#2d333b ctermfg=242 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptCommentSkip      guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptComment          guisp=NONE guifg=#636e7a guibg=#2d333b ctermfg=242 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptSpecial          guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptStringD          guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptStringS          guisp=NONE guifg=#96d0ff guibg=#2d333b ctermfg=117 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptStringT          guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptEmbed            guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptSpecialCharacter guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptNumber           guisp=NONE guifg=#dcb8ee guibg=#2d333b ctermfg=183 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptRegexpString     guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptFunction         guisp=NONE guifg=#d9644c guibg=#2d333b ctermfg=167 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptFunctionFold     guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptBraces           guisp=NONE guifg=#96d0ff guibg=#2d333b ctermfg=117 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptParens           guisp=NONE guifg=#96d0ff guibg=#2d333b ctermfg=117 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptCommentTodo      guisp=NONE guifg=#0099ff guibg=#2d333b ctermfg=33  ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptCharacter        guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptConditional      guisp=NONE guifg=#65a8eb guibg=#2d333b ctermfg=75  ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptRepeat           guisp=NONE guifg=#65a8eb guibg=#2d333b ctermfg=75  ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptBranch           guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptOperator         guisp=NONE guifg=#65a8eb guibg=#2d333b ctermfg=75  ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptType             guisp=NONE guifg=#dcb8ee guibg=#2d333b ctermfg=183 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptStatement        guisp=NONE guifg=#65a8eb guibg=#2d333b ctermfg=75  ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptError            guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScrParenError          guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptNull             guisp=NONE guifg=#96d0ff guibg=#2d333b ctermfg=117 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptBoolean          guisp=NONE guifg=#6bb4fd guibg=#2d333b ctermfg=75  ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptIdentifier       guisp=NONE guifg=#e86c63 guibg=#2d333b ctermfg=167 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptLabel            guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptException        guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptMessage          guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptGlobal           guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptMember           guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptDeprecated       guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptReserved         guisp=NONE guifg=#e86c63 guibg=#2d333b ctermfg=167 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptDebug            guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
+hi javaScriptConstant         guisp=NONE guifg=#ffffff guibg=#2d333b ctermfg=231 ctermbg=236 gui=NONE cterm=NONE
 " misc
 
 hi ColorColumn      guisp=NONE guifg=#ffffff guibg=#22272e ctermfg=231 ctermbg=235 gui=NONE cterm=NONE
