@@ -8,28 +8,28 @@ Learning is never enough, it is always important to understand something differe
 ### Installation
 
 
-Vundle: <pre>Plugin 'natanscalvence/Gitdark'</pre>
+Vundle: <pre>Plugin 'natanscalvence/PastellGit'</pre>
 NeoBundle:  
 
-<pre>NeoBundle 'natanscalvence/Gitdark'</pre>
+<pre>NeoBundle 'natanscalvence/PastellGit'</pre>
 
 Manual:
 <pre>
 cd /etc/vim/
 sudo git clone https://github.com/natanscalvence/Gitdark.git
-cd Gitdark
+cd PastellGit
 mv colors /etc/vim/
 </pre>
 ### Open your vim than type: 
 <pre>
-:colorscheme Gitdark
+:colorscheme PastellGit
 </pre>
 
 If you still want to use it as a default theme, follow the steps below.
 <pre>
 sudo nano /etc/vim/vimrc
 :set colorscheme
-colorscheme Gitdark
+colorscheme PastellGit
 </pre>
 
 👽 You done, now you have the new theme for you vim. Look at that Unixporn...
