@@ -16,7 +16,7 @@ NeoBundle:
 Manual:
 <pre>
 cd /etc/vim/
-sudo git clone https://github.com/natanscalvence/Gitdark.git
+sudo git clone https://github.com/natanscalvence/PastellGit.git
 cd PastellGit
 mv colors /etc/vim/
 </pre>
