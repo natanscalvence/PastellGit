@@ -7,12 +7,6 @@ Learning is never enough, it is always important to understand something differe
 
 ### Installation
 
-
-Vundle: <pre>Plugin 'natanscalvence/PastellGit'</pre>
-NeoBundle:  
-
-<pre>NeoBundle 'natanscalvence/PastellGit'</pre>
-
 Manual:
 <pre>
 cd /etc/vim/
